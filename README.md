@@ -12,7 +12,7 @@ I'm a self-taught web developer from Argentina, currently working at Rebrit SRL 
 ```javascript
       (\__/) 
   ⠀   (•ㅅ•)        
-  　＿ノ ヽ ノ＼  __   
+  　＿ノ ヽ ノ＼__   
  /　`/ ⌒Ｙ⌒ Ｙ　ヽ     Lisandro's 
 ( 　(三ヽ人　 /　  |      security 
 |　ﾉ⌒＼ ￣￣ヽ　 ノ        team
